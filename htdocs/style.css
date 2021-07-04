@@ -1,0 +1,10 @@
+div {
+  /* display: flex;
+  flex-direction: column; */
+}
+* {
+  text-align: center;
+}
+.child {
+  margin: 0 auto;
+}
